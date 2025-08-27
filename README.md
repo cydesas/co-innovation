@@ -301,7 +301,7 @@ php -l models/*.php
 
 ### Bonnes pratiques
 
-- **Coding Standards** : PSR-12 (à implémenter)
+- **Coding Standards** : PSR-12 
 - **Documentation** : PHPDoc pour toutes les méthodes publiques
 - **Validation** : Validation des données d'entrée
 - **Sécurité** : Protection contre les injections SQL, XSS, CSRF
@@ -332,49 +332,12 @@ php -l models/*.php
 - **Commentaires** : PHPDoc pour toutes les méthodes publiques
 - **Structure** : Respecter l'architecture MVC existante
 
-### Code of Conduct
-
-Nous nous engageons à maintenir un environnement ouvert et accueillant. Voir [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) pour plus de détails.
-
----
-
-## 🗺️ Roadmap & TODO
-
-### Fonctionnalités prévues
-
-- [ ] **Système de notifications** en temps réel
-- [ ] **Chat intégré** entre partenaires
-- [ ] **API GraphQL** pour plus de flexibilité
-- [ ] **Système de scoring** des partenaires
-- [ ] **Intégration blockchain** pour la propriété intellectuelle
-
-### Versions futures
-
-- **v2.0** : Interface mobile native
-- **v2.1** : Intelligence artificielle pour le matching
-- **v2.2** : Marketplace de services d'innovation
-- **v3.0** : Plateforme multi-tenant pour entreprises
-
-### Idées en cours
-
-- Intégration avec des outils de gestion de projet
-- Système de certification des compétences
-- Marketplace de financement participatif
-- Intégration avec des plateformes d'innovation existantes
-
 ---
 
 ## 🌐 Communauté & Support
 
-### Comment obtenir de l'aide
-
-- **Issues GitHub** : [Signaler un bug](https://github.com/votre-username/co-innovation/issues)
-- **Discussions** : [Forum communautaire](https://github.com/votre-username/co-innovation/discussions)
-- **Documentation** : [Wiki du projet](https://github.com/votre-username/co-innovation/wiki)
-
 ### Canaux officiels
 
-- **Site web** : [co-innovation.fr](https://co-innovation.fr)
 - **Entreprise** : [Cyde](https://cyde.fr)
 - **LinkedIn** : [Cyde SAS](https://www.linkedin.com/company/cyde-sas/)
 
@@ -386,14 +349,6 @@ Nous nous engageons à maintenir un environnement ouvert et accueillant. Voir [C
 
 ---
 
-## 📄 Licence
-
-Ce projet est distribué sous licence **Apache 2.0**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-**Apache License 2.0** - Permet l'utilisation commerciale, la modification, la distribution et l'utilisation privée avec très peu de restrictions.
-
----
-
 ## 📚 Références & Inspirations
 
 ### Standards et bonnes pratiques
@@ -401,12 +356,6 @@ Ce projet est distribué sous licence **Apache 2.0**. Voir le fichier [LICENSE](
 - [PSR Standards](https://www.php-fig.org/psr/) - Standards PHP
 - [MVC Pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) - Architecture MVC
 - [REST API Guidelines](https://restfulapi.net/) - Bonnes pratiques API REST
-
-### Projets similaires
-
-- [InnoCentive](https://www.innocentive.com/) - Plateforme d'innovation ouverte
-- [IdeaConnection](https://www.ideaconnection.com/) - Résolution collaborative de problèmes
-- [NineSigma](https://www.ninesigma.com/) - Innovation ouverte pour entreprises
 
 ### Documentation externe
 
